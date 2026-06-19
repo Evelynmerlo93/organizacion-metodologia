@@ -82,3 +82,7 @@ La funcionalidad se considerará completada cuando:
 
 * Animaciones visuales.
 * Efectos adicionales de interacción.
+
+* ## Conclusión
+
+La metodología Agile permite organizar el trabajo de forma flexible y colaborativa. Las historias de usuario, los criterios de aceptación y los tableros Kanban ayudan a gestionar las tareas y garantizar que las funcionalidades desarrolladas cumplan las necesidades del usuario.
